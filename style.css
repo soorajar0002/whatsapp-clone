@@ -1,0 +1,271 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  
+
+}
+body{
+    overflow-x: hidden;
+}
+
+
+.header{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 89px;
+    background-color: #128c7e;
+    align-items: center;
+}
+#logo{
+    
+    padding-top: 24px;
+    padding-left: 235px;
+    align-items: center;
+    float: left;
+}
+.opt{
+    float: left;
+    list-style: none;
+    padding-left: 59px;
+
+}
+.adjust{
+    padding-top: 38px;
+    align-items: center;
+    float: left;
+    padding-left: 48px;
+    color: white;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+#En{
+    float: right;
+}
+#En1{
+    height: 19px;
+    margin-left: -43px;
+
+}
+.main{
+    width: 100%;
+    height: 725px;
+}
+.mainhead{
+    float: left;
+    padding-left: 351px;
+    padding-top: 150px;
+}
+
+.one{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 33px;
+    color: #1C1E21;
+
+}
+#two{
+    font-size: 20px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #1C1E21;
+}
+#three{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #5e5e5e;
+    
+}
+.four{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+   
+    font-size: 18px;
+    color: #1CB39B;
+    font-weight: 400;
+
+}
+.head2{
+    
+    float: left;
+    padding-top: 55px;
+    padding-left: 84px;
+}
+
+
+#image{
+    margin-top: 60px;
+}
+.secondbody{
+    width: 100%;
+    height: 900px;
+    background-color: white;
+    
+}
+
+.leftsb{
+    
+    float: left;
+    width: 700px;
+    height: 900px;
+    background-color: #D8E8EA;
+   margin-left: 50px;
+  
+
+   
+}
+.rightsb{
+    
+    float: left;
+    width: 700px;
+    height: 900px;
+    background-color: #E7F0E4;
+    margin-left: 50px;
+    
+}
+#left1{
+    font-size: 34px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding-top: 62px;
+    padding-left: 135px;
+}
+.left2{
+   
+    font-size: 18px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #1C1E21;
+    text-align: center;
+    padding-top: 54px;
+}
+#left3{
+    margin-top: 131px;
+    padding-left: -14px;
+    margin-left: 151px;
+}
+.right1
+{
+    margin-top: 84px;
+    margin-left: 176px;
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    background-color: #77d7c8;
+}
+.right2{
+    width: 700px;
+    height: 34px;
+    color: #5E5E5E;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+
+    font-weight: 700;
+    font-size:16px;
+    letter-spacing:.15em;
+    margin-left: 235px;
+    margin-top: 68px;
+}
+.right3{
+    margin-left: 209px;
+    margin-top: 8px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 34px;
+    font-weight: 700;
+    color: #1C1E21;
+}
+.right4{
+    margin-top: 42px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+.explore{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+}
+.exp1{
+    margin-top: 70px;
+    margin-left: 671px;
+    width: 214px;
+    height: 52px;
+    border-radius: 40px;
+    
+    text-align: center;
+    background-color: white;
+    border: 2px solid #128c7e;
+    text-align: center;
+}
+#exp2{
+padding-top: 10px;
+color: #128c7e;;
+}
+.footer{
+    width: 100%;
+    height: 350px;
+    background-color: #273443;
+}
+.footer2{
+    width: 100%;
+    height: 68px;
+    background-color: #1C1E21;
+    font-weight: 700;
+}
+.foot2one{
+font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+color: white;
+font-size: 18px;
+padding-top: 20px;
+margin-left: 184px;
+float: left;
+}
+.foot2two{
+    float: left;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: white;
+    padding-left: 765px;
+    padding-top: 21px;
+
+}
+.onef{
+    padding-top: 58px;
+    padding-left: 190px;
+    color: white;
+    font-size: 18px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    float: left;
+    line-height: 29px;
+    
+}
+.twof{
+    padding-top: 58px;
+    float: left;
+    color: white;
+    font-size: 18px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding-left: 138px;
+    line-height: 29px;
+   
+}
+.threef{
+    padding-left: 173px;
+    padding-top: 57px;
+    float: left;
+    color: white;
+    font-size: 18px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    line-height: 29px;
+}
+.fourf{
+    padding-top: 57px;
+    float: left;
+    color: white;
+    font-size: 18px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding-left: 171px;
+    line-height: 29px;
+  
+
+}
